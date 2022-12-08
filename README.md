@@ -1,5 +1,5 @@
 
-[![unicorncode_bzb8ey](https://res.cloudinary.com/hunghg255/image/upload/v1647578947/unicorncode_bzb8ey.svg)](https://hunghg255.github.io)
+*Hi there*
 
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
