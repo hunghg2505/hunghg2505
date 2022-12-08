@@ -1,5 +1,5 @@
 
-*Hi there*
+# Hi there, I'm Hung 👋✌
 
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
