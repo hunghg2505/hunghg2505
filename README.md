@@ -14,4 +14,9 @@
        src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg2505&count_private=true" 
        alt="hunghg2505" 
   />
+  
+    <h2 align='center'> 📈 Contributions in this year </h2>
+  <img src="https://ghchart.rshah.org/F90716/hunghg2505" alt="">
+  
+  ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
