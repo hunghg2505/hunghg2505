@@ -1,5 +1,5 @@
 
-# Hi there, I'm Hung 👋✌
+<div align="center"><img src="https://res.cloudinary.com/hunghg255/image/upload/v1675336531/download_jlyce0.png"></div>
 
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
