@@ -1,5 +1,14 @@
 
-<div align="center"><img src="https://res.cloudinary.com/hunghg255/image/upload/v1675336531/download_jlyce0.png"></div>
+<!-- <div align="center"><img src="https://res.cloudinary.com/hunghg255/image/upload/v1675336531/download_jlyce0.png"></div> -->
+<h1 align='center'>Hi there, I'm Hung 👋✌🏻</h1>
+
+<p align="center">
+  <samp>
+  Currently, I'm working as frontend developer. You can follow my blog here
+    <a href="https://web-totals.vercel.app">Web totals</a>
+    ✍️ ✍️ ✍️
+  </samp>
+</p>
 
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
@@ -9,8 +18,8 @@
 </p>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=hunghg2505&show_icons=true&border_radius=15&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg2505&border_radius=15&layout=compact&langs_count=6&count_private=true"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=hunghg2505&show_icons=true&border_radius=15&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghg2505&border_radius=15&layout=compact&langs_count=6&count_private=true"/> -->
   <img 
        src="https://github-readme-streak-stats.herokuapp.com/?user=hunghg2505&count_private=true" 
        alt="hunghg255" 
