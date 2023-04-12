@@ -1,4 +1,7 @@
 
+[![header](
+https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section=header&text=Hung2505&fontSize=48&animation=twinkling&fontColor=fff&fontAlign=82&rotate=15&fontAlignY=40)](https://github.com/hunghg2505)
+
 <!-- <div align="center"><img src="https://res.cloudinary.com/hunghg255/image/upload/v1675336531/download_jlyce0.png"></div> -->
 <h1 align='center'>Hi there, I'm Hung 👋✌🏻</h1>
 
@@ -29,3 +32,6 @@
   
   ![](./profile-3d-contrib/profile-green-animate.svg)
 </div>
+
+
+[![footer](https://capsule-render.vercel.app/api?type=slice&color=f25f4c&section=footer&height=220&fontSize=28)](https://github.com/hunghg2505)
