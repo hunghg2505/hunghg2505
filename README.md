@@ -34,4 +34,4 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
 </div>
 
 
-[![footer](https://capsule-render.vercel.app/api?type=slice&color=f25f4c&section=footer&height=220&fontSize=28)](https://github.com/hunghg2505)
+
