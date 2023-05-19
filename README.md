@@ -5,13 +5,23 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
 <!-- <div align="center"><img src="https://res.cloudinary.com/hunghg255/image/upload/v1675336531/download_jlyce0.png"></div> -->
 <h1 align='center'>Hi there, I'm Hung 👋✌🏻</h1>
 
-<p align="center">
+<!-- <p align="center">
   <samp>
   Currently, I'm working as frontend developer. You can follow my blog here
     <a href="https://web-totals.vercel.app">Web totals</a>
     ✍️ ✍️ ✍️
   </samp>
+</p> -->
+
+<p align="center">
+  <samp>
+    <a href="https://hung.thedev.id">me</a> .
+    <a href="https://web-totals.vercel.app/">blog</a> .
+    <a href="https://twitter.com/hunghg255">tweets</a> .
+    <a href="https://www.instagram.com/hello_silver_miu/">instagram</a>
+  </samp>
 </p>
+
 
 <h2 align='center'> 📈 Github Stars </h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
