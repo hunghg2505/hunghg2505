@@ -17,8 +17,9 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
   <samp>
     <a href="https://hung.thedev.id">me</a> .
     <a href="https://web-totals.vercel.app/">blog</a> .
+    <a href="https://hung.thedev.id/projects">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
-    <a href="https://www.instagram.com/hello_silver_miu/">instagram</a>
+    <a href="https://www.instagram.com/hello_silver_miu/">instagram</a> .
     <a href="https://www.linkedin.com/in/hoanggiahung/">linkedin</a>
   </samp>
 </p>
