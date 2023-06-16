@@ -21,7 +21,8 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
     <a href="https://twitter.com/hunghg255">tweets</a> .
     <a href="https://www.instagram.com/hello_silver_miu/">instagram</a> .
     <a href="https://www.linkedin.com/in/hoanggiahung/">linkedin</a> .
-    <a href="https://hunghg-contact.vercel.app/">contacts</a>
+    <a href="https://hunghg-contact.vercel.app/">contacts</a> .
+    <a href="https://gist.github.com/hunghg255">gist</a>
   </samp>
 </p>
 
