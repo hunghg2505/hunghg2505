@@ -16,6 +16,7 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
 <p align="center">
   <samp>
     <a href="https://hung.thedev.id">me</a> .
+    <a href="https://hunghg-resume.vercel.app/">resume</a> .
     <a href="https://web-totals.vercel.app/">blog</a> .
     <a href="https://hung.thedev.id/projects">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
