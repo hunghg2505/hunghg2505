@@ -45,7 +45,7 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
   <h2 align='center'> 📈 Contributions in this year </h2>
 <!--   <img src="https://ghchart.rshah.org/F90716/hunghg2505" alt=""> -->
   
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+  ![](./profile-3d-contrib/profile-season-animate.svg)
 </div>
 
 
