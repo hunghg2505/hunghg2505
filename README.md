@@ -27,12 +27,13 @@ https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section
   </samp>
 </p>
 
-
-<h2 align='center'> 📈 Github Stars </h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
+<p align="center">
+  <kbd>
+  <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
   <img src="https://shields.io/github/stars/hunghg2505">
   <img src="https://img.shields.io/github/followers/hunghg2505">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
+  </kbd>
 </p>
 
 <div align="center">
