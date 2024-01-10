@@ -2,39 +2,29 @@
 [![header](
 https://capsule-render.vercel.app/api?type=Slice&color=f25f4c&height=260&section=header&text=Hung2505&fontSize=48&animation=twinkling&fontColor=fff&fontAlign=82&rotate=15&fontAlignY=40)](https://github.com/hunghg2505)
 
-<!-- <div align="center"><img src="https://res.cloudinary.com/hunghg255/image/upload/v1675336531/download_jlyce0.png"></div> -->
-<h1 align='center'>Hi there, I'm Hung 👋✌🏻</h1>
-
-<!-- <p align="center">
-  <samp>
-  Currently, I'm working as frontend developer. You can follow my blog here
-    <a href="https://web-totals.vercel.app">Web totals</a>
-    ✍️ ✍️ ✍️
-  </samp>
-</p> -->
+<div align="center">
+<!--   <a href="https://hung.thedev.id/">
+    <img width="60" height="60" src="./img/me.jpeg" />
+  </a>
+  <br> -->
+  <samp>Hi, I'm Hung, Frontend developer from Hanoi, Vietnam.</samp>
 
 <p align="center">
   <samp>
+    <span>learning</span> .
     <a href="https://hung.thedev.id">me</a> .
+    <a href="https://web-totals.vercel.app/blog">blog</a> .
     <a href="https://hunghg-resume.vercel.app/">resume</a> .
-    <a href="https://web-totals.vercel.app/">blog</a> .
-    <a href="https://hung.thedev.id/projects">projects</a> .
+    <a href="https://toolsfe.vercel.app/tools/index.html">projects</a> .
     <a href="https://twitter.com/hunghg255">tweets</a> .
-    <a href="https://www.instagram.com/hello_silver_miu/">instagram</a> .
-    <a href="https://www.linkedin.com/in/hoanggiahung/">linkedin</a> .
-    <a href="https://hunghg-contact.vercel.app/">contacts</a> .
-    <a href="https://gist.github.com/hunghg255">gist</a>
+    <a href="https://hunghg-contact.vercel.app/">contacts</a>
+    <br />
+    <a href="mailto:giahung197bg@gmail.com">mail</a> .
+    <a href="https://gist.github.com/hunghg255">gist</a> .
+    <a href="https://github.com/hunghg255/use">use</a>
   </samp>
 </p>
-
-<p align="center">
-  <kbd>
-  <img src="https://komarev.com/ghpvc/?username=hunghg2505&style=flat" alt="hunghg2505" />
-  <img src="https://shields.io/github/stars/hunghg2505">
-  <img src="https://img.shields.io/github/followers/hunghg2505">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Love%20coding&style=style=flat&color=c80000">
-  </kbd>
-</p>
+</div>
 
 <div align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=hunghg2505&show_icons=true&border_radius=15&count_private=true"/>
